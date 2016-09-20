@@ -1,4 +1,5 @@
 {
+  "short_name" : "Web App",
   "name": "Web Application Manifest Sample",
   "icons": [
     {
