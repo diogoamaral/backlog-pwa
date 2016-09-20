@@ -1,5 +1,4 @@
 // This file is required to make the "app" work offline
-
 document.getElementById('randomButton').addEventListener('click', function() {
   var image = document.getElementById('logoImage');
   var currentIndex = Number(image.src.match('random-([0-9])')[1]);

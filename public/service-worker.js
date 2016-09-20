@@ -4,6 +4,7 @@ var CACHE_NAME = 'dependencies-cache';
 
 // Files required to make this app work offline
 var REQUIRED_FILES = [
+  '/',
   '/images/random-1.png',
   '/images/random-2.png',
   '/images/random-3.png',
